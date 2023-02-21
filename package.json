@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-ald",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AldahirRojas/random-str-msg-ald.git"
+  },
+  "keywords": [],
+  "author": "Aldahir Rojas <aldahir.rojas1@utp.edu.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AldahirRojas/random-str-msg-ald/issues"
+  },
+  "homepage": "https://github.com/AldahirRojas/random-str-msg-ald#readme",
+  "bin": {
+    "random-str-msg-ald": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
